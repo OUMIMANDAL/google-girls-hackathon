@@ -17,6 +17,10 @@ write_verilog output.v
 
 ![yosys1](https://github.com/user-attachments/assets/318c7b76-ae32-41b0-a59c-71ae98b7ed59)
 
+- This is the netlist of the above synthesis
+
+![yosys2](https://github.com/user-attachments/assets/e0b4e49c-090e-4e62-a752-a9b9b98fb04e)
+
 
 ## Step 3: Timing Analysis done by OpenTimer
 Timing Report is obtained by OpenTimer
