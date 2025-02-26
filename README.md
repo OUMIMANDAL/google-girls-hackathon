@@ -32,7 +32,7 @@ I am able to create a total of 1000 dataset and used in my Machine Learning Mode
 Implemented XGBoost Regressor Model to find the Combinational Depth using the Dependent Variables (Critical Time, Gate Count, Fan_IN, Fan_OUT)
 I coded in Jupyter Notebook using VSCode
 
--After Training the XGBoost Model
+- After Training the XGBoost Model
 ![image](https://github.com/user-attachments/assets/c654137a-2672-41e2-a599-4195eaa81d73)
 
 - Calculated Mean Absolute Error(MAE), Mean Squared Error(MSE) & R2Score
