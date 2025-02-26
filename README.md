@@ -12,7 +12,9 @@ synth
 stat
 write_verilog output.v
 ```
+
 - After running the code I got this output shown below.
+
 ![yosys1](https://github.com/user-attachments/assets/318c7b76-ae32-41b0-a59c-71ae98b7ed59)
 
 
