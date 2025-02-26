@@ -42,6 +42,8 @@ Implemented XGBoost Regressor Model to find the Combinational Depth using the De
 I coded in Jupyter Notebook using VSCode
 
 - After Training the XGBoost Model
+![image](https://github.com/user-attachments/assets/d07317e5-bf0b-4412-af60-bb9b0a92f7e8)
+
 ![image](https://github.com/user-attachments/assets/c654137a-2672-41e2-a599-4195eaa81d73)
 
 - Calculated Mean Absolute Error(MAE), Mean Squared Error(MSE) & R2Score
@@ -50,5 +52,8 @@ I coded in Jupyter Notebook using VSCode
 
 I am successfully implemented a model in which i got a 0.954 R2Score.
 
--Graph of Accuracy: Predicted v/s Actual Combinational Depth
+- Graph of Accuracy: Predicted v/s Actual Combinational Depth
+
 ![image](https://github.com/user-attachments/assets/f1587652-c14c-4733-b2e3-026af4e3b18f)
+
+## Step 6: Uploaded to GitHub
