@@ -43,4 +43,3 @@ I am successfully implemented a model in which i got a 0.954 r2score.
 
 -Graph of Accuracy: Predicted v/s Actual Combinational Depth
 ![image](https://github.com/user-attachments/assets/f1587652-c14c-4733-b2e3-026af4e3b18f)
-
