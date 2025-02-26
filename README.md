@@ -1,4 +1,4 @@
-# google-girls-hackathon
+# Google-Girls-Hackathon: Combinational Depth Predictor
 
 ## Step 1: Collecting Verilog Codes from the internet
 Collected the Verilog codes from various websites and also used some of my own verilog codes.
