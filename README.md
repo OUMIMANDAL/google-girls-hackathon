@@ -48,7 +48,7 @@ I coded in Jupyter Notebook using VSCode
 
 ![image](https://github.com/user-attachments/assets/e30ca49f-dd16-48cd-858d-2f8f319c0462)
 
-I am successfully implemented a model in which i got a 0.954 r2score.
+I am successfully implemented a model in which i got a 0.954 R2Score.
 
 -Graph of Accuracy: Predicted v/s Actual Combinational Depth
 ![image](https://github.com/user-attachments/assets/f1587652-c14c-4733-b2e3-026af4e3b18f)
