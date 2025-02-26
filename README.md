@@ -36,7 +36,9 @@ I coded in Jupyter Notebook using VSCode
 ![image](https://github.com/user-attachments/assets/c654137a-2672-41e2-a599-4195eaa81d73)
 
 - Calculated Mean Absolute Error(MAE), Mean Squared Error(MSE) & R2Score
+
 ![image](https://github.com/user-attachments/assets/e30ca49f-dd16-48cd-858d-2f8f319c0462)
+
 I am successfully implemented a model in which i got a 0.954 r2score.
 
 -Graph of Accuracy: Predicted v/s Actual Combinational Depth
